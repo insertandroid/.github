@@ -26,6 +26,7 @@ List of useful / essential modules.
 | [AOSP Mods](https://github.com/siavash79/AOSPMods)                                             | Magisk           | AOSP customisation app                                               |
 | [LSPosed](https://github.com/LSPosed/LSPosed)                                                  | Magisk           | Hooking framework, alternative to Xposed                             |
 | [Universal SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix)                            | Magisk (Zygisk)  | SafetyNet attestation workarounds                                    |
+| [Universal SafetyNet Fix (Mod)](https://github.com/Displax/safetynet-fix) (use this!)          | Magisk (Zygisk)  | SafetyNet attestation workarounds (with CTS profile attestation)     |
 | [Better Call Recorder](https://github.com/chenxiaolong/BCR)                                    | Magisk           | Call recording app for rooted phones                                 |
 | [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)                               | Magisk           | Hide root, Magisk, LSPosed from apps                                 |
 | [Disable FLAG_SECURE](https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE)                | LSPosed / Xposed | Allow screenshots, screen-sharing and recording apps                 |
